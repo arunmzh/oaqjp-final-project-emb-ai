@@ -1,3 +1,2 @@
 # Repository for final project
-Project Name: Final Project
-Emotion Detector
+Project Name: Final project
